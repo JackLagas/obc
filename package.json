@@ -1,7 +1,7 @@
 {
     "name": "obc",
     "version": "0.1.0",
-    "homepage": "https://obc.jacklagas.com",
+    "homepage": "http://obc.jacklagas.com",
     "private": true,
     "dependencies": {
         "@testing-library/dom": "^10.4.1",
