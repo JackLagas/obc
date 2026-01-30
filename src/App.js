@@ -16,10 +16,10 @@ function App() {
                 <Navbar />
                 <DevBranch />
                 <Routes>
-                    <Route path="/" element={<Home />} />
-                    <Route path="/Shipping" element={<Shipping />} />
-                    <Route path="/Printing" element={<Printing />} />
-                    <Route path="/About" element={<About />} />
+                    <Route path="" element={<Home />} />
+                    <Route path="Shipping" element={<Shipping />} />
+                    <Route path="Printing" element={<Printing />} />
+                    <Route path="About" element={<About />} />
                 </Routes>
 
             </BrowserRouter>
