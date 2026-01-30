@@ -1,0 +1,19 @@
+
+
+div.Shipping ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+.times {
+    display: flex;
+    column-gap: 10px;
+    align-items: center;
+    justify-content: center;
+    text-align: left;
+    gap: 5%;
+    font-size:16;
+    line-height: 24px;
+}
+
